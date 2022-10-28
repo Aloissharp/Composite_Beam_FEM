@@ -1,1 +1,1 @@
-# Composite_Beam_FEM
+Composite beam (SMath Studio - Finite Elements).
